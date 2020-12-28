@@ -7,7 +7,7 @@ the desired end goal. I want to learn more and more and become an expert in my c
   solve a lot of problems. </li>
   <li>:computer: I like doing competitive programming for fun. </li>
 <li>:page_facing_up: 
-I have written few articles related to python and machine learning on GeeksForGeeks. <a href="https://auth.geeksforgeeks.org/user/shardul_singh_tomar/articles"> Check them out!</a>
+I have written few articles on GeeksForGeeks. <a href="https://auth.geeksforgeeks.org/user/shardul_singh_tomar/articles"> Check them out!</a>
 </li>
   <li>Reach me out: <ul>
     <li><a href="https://www.linkedin.com/in/shardul-singh-95636916a/">LinkedIn</a></li>
