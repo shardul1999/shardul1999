@@ -14,4 +14,4 @@ I have written few articles on GeeksForGeeks. <a href="https://auth.geeksforgeek
     <li><a href="https://www.quora.com/profile/Shardul-Singh-Tomar-1">Quora</a></li>
     <li>:email: shardulsinghtom@gmail.com</li>
    </ul>
-  <li>⚡ Fun fact: I love Hockey Skating.</li>
+  <li>⚡ Fun fact: Always up for a game of chess. <a href="https://www.chess.com/member/shardul99">leggo?</a> </li>
