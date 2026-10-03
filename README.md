@@ -4,8 +4,8 @@
   <li>:seedling: Data Engineer with nearly 5 years of experience, now transitioning into an <b>AI Data Engineer</b> role. I enjoy working on complex problems and building user-friendly solutions, and I believe in continuous learning through hands-on industry projects.</li>
   <li>:mortar_board: Currently pursuing a Master's in AI &amp; Machine Learning at the University of Limerick (UL).</li>
   <li>:books: Bachelor of Technology (BTech) in Computer Science and Engineering from Shiv Nadar University.</li>
-  <li>:computer: I like doing competitive programming for fun.</li>
-  <li>:page_facing_up: I have written a few articles on GeeksForGeeks. <a href="https://auth.geeksforgeeks.org/user/shardul_singh_tomar/articles">Check them out!</a></li>
+  <li>:brain: Off the clock, I solve competitive programming problems for fun. Yes, I debug for a living <i>and</i> as a hobby.</li>
+  <li>:pencil2: I explain things too: a few of my articles are live on GeeksForGeeks. <a href="https://auth.geeksforgeeks.org/user/shardul_singh_tomar/articles">Give them a read →</a></li>
   <li>:handshake: Reach out to me:
     <ul>
       <li><a href="https://www.linkedin.com/in/shardul-singh-95636916a/">LinkedIn</a></li>
